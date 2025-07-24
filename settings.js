@@ -34,10 +34,10 @@ global.themeemoji = '⚠️'
 global.wm = "DENNIS BOT"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
+global.link = 'https://chat.whatsapp.com/JZNpeQBUYzQ8W9KLdVFqrZ?mode=r_c'
 
 //custom prefix
-global.prefa = ['','!','.','#','/']
+global.prefa = [''.'!','.','#','/']
 
 
 //bot settings
